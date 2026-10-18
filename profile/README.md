@@ -10,6 +10,10 @@ Our goal is not simply to make AI run more analyses. It is to help researchers *
 
 > **From research questions to reproducible scientific evidence.**
 
+
+<p align="center">
+  <img src="Slogo.png" alt="CygnusX research ecosystem" width="1100">
+</p>
 ---
 
 ## What We Believe
